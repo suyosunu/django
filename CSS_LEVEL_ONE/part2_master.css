@@ -1,0 +1,22 @@
+
+
+body{
+    background: url(https://im.haberturk.com/2021/06/17/ver1623933667/3107170_810x458.jpg);
+    background-repeat: no-repeat;
+}
+
+div{
+    background: blue;
+    border-color: orange;
+    border-width: 2px;
+    border-style: dotted;
+}
+
+p{
+    color: yellow;
+}
+
+span{
+    background: red;
+    color: black;
+}
