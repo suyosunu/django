@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Monoton', cursive;
+    text-align: center;
+}
+
+.tbl{
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+}
+#trl{
+    padding: 100px;
+}
+
+td{
+    border: white 2px solid;
+    width: 100px;
+    height: 200px;
+}
+
+#one{
+    background-color: #8ecae6;
+}
+
+
+#two{
+    background-color: #219ebc;
+}
+
+#three{
+    background-color: #023047;
+}
+
+#four{
+    background-color: #ffb703;
+}
+
+#five{
+    background-color: #fb8500;
+}
